@@ -1,0 +1,17 @@
+{
+  "name": "bspmediaupload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node index.js",
+    "link": "npx eslint index.js"
+  },
+  "dependencies": {
+    "axios": "1.4.0",
+    "dotenv": "16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "8.39.0"
+  }
+}
